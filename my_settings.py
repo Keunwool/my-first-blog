@@ -9,4 +9,3 @@ DATABASES = {
         'PORT': '3306',
     }
 }
-SECRET_KEY = '#qh3fwne1btatgwun@7hx&(n+eh3@*)(^u)671z5x1^#=-t+$z'
